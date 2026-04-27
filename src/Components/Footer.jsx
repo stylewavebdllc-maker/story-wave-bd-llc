@@ -6,7 +6,7 @@ export default function Footer() {
           <p className="text-gray-500 text-sm">
             © {new Date().getFullYear()} Style Wave BD LLC. All rights reserved.
           </p>
-          <p className="text-gray-400 text-xs mt-2">Headquartered in Queens, New York</p>
+          <p className="text-gray-400 text-xs mt-2">Headquartered in Dhaka 1219, Bangladesh</p>
         </div>
       </div>
     </footer>
