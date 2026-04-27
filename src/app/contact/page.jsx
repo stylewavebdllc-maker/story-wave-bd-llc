@@ -27,16 +27,15 @@ export default function ContactPage() {
         {/* Address Information */}
         <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">Headquarters</h2>
         <p className="text-gray-800 dark:text-gray-200 text-lg font-medium mb-1">Style Wave BD LLC</p>
-        <p className="text-gray-600 dark:text-gray-400">Queens, New York</p>
+        <p className="text-gray-600 dark:text-gray-400">Holding no 182, Block -K. </p>
+        <p className="text-gray-600 dark:text-gray-400">South Banasree ,Dhaka 1219, Bangladesh </p>
 
         {/* Divider & Email Section */}
         <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
           <p className="text-gray-700 dark:text-gray-300 text-lg">
-            <strong className="text-gray-900 dark:text-white font-semibold">Email:</strong> contact@stylewavebd.com
+            <strong className="text-gray-900 dark:text-white font-semibold">Email:</strong> contact@stylewavebd.com 
           </p>
-          <span className="text-sm text-gray-400 dark:text-gray-500 mt-2 block">
-            (Update with your actual email)
-          </span>
+       
         </div>
 
       </div>
