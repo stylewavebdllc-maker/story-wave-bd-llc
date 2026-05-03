@@ -46,7 +46,7 @@ export default function ContactPage() {
               <div className="w-10 h-1 bg-gray-900 dark:bg-white rounded-full mb-6 group-hover:w-20 transition-all duration-500"></div>
               
               <p className="text-gray-900 dark:text-gray-200 text-xl font-semibold mb-3">Style Wave BD LLC</p>
-              <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">103-55 97street Suite#8c<br/>Ozone park, New York 11417, USA</p>
+              <p className="text-gray-600 dark:text-gray-400 text-lg leading-relaxed">103-55 97street Suite#3c<br/>Ozone park, New York 11417, USA</p>
             </div>
           </div>
 
